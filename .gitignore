@@ -1,5 +1,6 @@
-# Data files (large)
+# Data files (large) — but NOT trainTestSplit label splits
 *.mat
+!CACL-Baseline/trainTestSplit/**/*.mat
 *.npy
 *.npz
 HSI_data/
