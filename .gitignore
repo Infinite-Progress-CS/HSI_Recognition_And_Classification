@@ -6,6 +6,12 @@
 HSI_data/
 HSI数据集/
 
+# Personal files (not for public repo)
+顶会论文及阅读笔记/
+光谱-空间的类感知机神经网络代码/
+双流自适应网络代码/
+基于类别感知的一致性学习/
+
 # IDE
 .idea/
 .vscode/
