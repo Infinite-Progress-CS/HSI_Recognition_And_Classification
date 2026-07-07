@@ -1,0 +1,28 @@
+# Data files (large)
+*.mat
+*.npy
+*.npz
+HSI_data/
+HSI数据集/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints
+check_point/
+*.pkl
+*.pth
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Excel (keep template, ignore generated)
+# experiment_results.xlsx (template kept in MS3-ViT/)

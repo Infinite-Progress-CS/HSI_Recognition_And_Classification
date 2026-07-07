@@ -1,0 +1,33 @@
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Data (large files, don't track in git)
+*.mat
+*.npy
+*.npz
+Data/
+
+# Outputs
+*.pth
+*.pt
+checkpoints/
+logs/
+wandb/
